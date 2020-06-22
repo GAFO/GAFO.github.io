@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "rUiUjNzmMuzm39K7cJAoQ1yJAAM45x6195"
+      }
+    }
+  ],
+  "payId": "pay$GAFO.github.io"
+}
